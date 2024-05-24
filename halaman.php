@@ -25,13 +25,14 @@
     <link rel='shortcut icon' href='image/smk2.jpg'>
     <link rel="stylesheet" href="./css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <title>Home</title>
+    <title>Home 1</title>
 </head>
 
 
 <body class="sidebar-mini" style="height: auto;">
 
-    <nav class="navbar navbar-expand navbar-white navbar-light">
+    <nav class="navbar navbar-expand navbar-white navbar-light ">
+
 
         <ul class="navbar-nav">
             <li class="nav-item">
