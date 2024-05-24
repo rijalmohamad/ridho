@@ -25,7 +25,7 @@
     <link rel='shortcut icon' href='image/smk2.jpg'>
     <link rel="stylesheet" href="./css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <title>Home 1</title>
+    <title>home</title>
 </head>
 
 
@@ -156,7 +156,7 @@
                             <img src="image/pramuka.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <p class="card-text"><strong>Pramuka.</strong></p>
-                                <h6>Gerakan Pramuka adalah organisasi pendidikan nonformal yang menyelenggarakan pendidikan kepanduan yang dilaksanakan di Indonesia. Kata Pramuka merupakan singkatan dari Praja Muda Karana, yang memiliki arti Orang Muda yang Suka Berkarya.</h6>
+                                <h6>Gerakan Pramuka adalah organisasi pendidikan nonformal yang menyelenggarakan pendidikan kepanduan yang dilaksanakan di Indonesia, Kata Pramuka merupakan singkatan dari Praja Muda Karana, yang memiliki arti Orang Muda yang Suka Berkarya.</h6>
                             </div>
                         </div>
                     </div>
